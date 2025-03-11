@@ -1,0 +1,10 @@
+a {
+    color: #ffcc00; /* Amarillo para mejor contraste */
+    font-weight: bold; /* Para que resalte mas */
+    text-decoration: none; /* Sin subrayado */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse */
+    color: #ffdd44; /*Un amarillo mas claro al pasar el cursor */
+}
